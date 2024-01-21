@@ -1,1 +1,1 @@
-# mdn--first-splash-into-javascript
+A splash into javascript mdn assignment.
